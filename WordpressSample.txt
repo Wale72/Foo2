@@ -1,3 +1,4 @@
 AppName: blogazureword
 sometthing added here
 From file to repos
+using pull command
