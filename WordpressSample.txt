@@ -1,1 +1,3 @@
 AppName: blogazureword
+
+From file to repos
